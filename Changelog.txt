@@ -1,6 +1,6 @@
 Changelog
 
-1.0.7
+7.0.0
 	Adoption by Linuxgurugamer
 	Recompiled for 1.12.5
 	merged in changes from github user @erinacio:
@@ -8,3 +8,42 @@ Changelog
 	Added AssemblyVersion.tt
 	Added InstallChecker.cs
 	Added build files
+	Built complete changelog based on revisions on Spacedock
+
+6.0
+	Update for KSP 1.8
+
+5.1
+	Fix bugs with detecting connected vessels
+
+5.0
+	Update for KSP 1.4
+
+4.2
+	Lots of data printed to log file
+		Info about connected vessels detected
+		Info about transmission success/failure
+		More error messages
+	Recompile for KSP 1.3.1
+
+4.1
+	Update with Chinese, Spanish and Russian translations
+
+4.0
+	Updated for KSP 1.3
+	Localization support added
+		Partial support for all stock languages
+		Translations required for the settings text and some of the UI text
+
+3.1
+	Fix transmission boost penalty slider in settings menu
+	Fix for bug when aborting transmission to another vessel
+
+3.0
+	Preserver science data transmission level for results with 0 science remaining
+
+2.0
+	Add an option to require a relay antenna on the target vessel
+
+1.0
+	Initial release
