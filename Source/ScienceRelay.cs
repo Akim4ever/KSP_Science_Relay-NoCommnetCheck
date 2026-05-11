@@ -1098,7 +1098,7 @@ namespace ScienceRelay
 
             //RelayLog("Finding Connected Vessels...");
 
-			if (CommNetScenario.CommNetEnabled)// && !CNConstellationLoaded)
+			if (false) //ignore commnet
 				connectedVessels = getConnectedVessels(vessel);
 			else
 			{
